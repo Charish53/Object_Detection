@@ -1,5 +1,4 @@
 
-```markdown
 # 🚀 Object Detection using Deep Learning
 
 ## 📌 Overview
