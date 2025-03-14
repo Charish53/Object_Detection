@@ -1,4 +1,3 @@
-Here’s your **finalized GitHub README** with your **email and LinkedIn** included:  
 
 ```markdown
 # 🚀 Object Detection using Deep Learning
