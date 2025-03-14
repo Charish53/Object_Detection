@@ -97,6 +97,4 @@ python detect.py --model faster_rcnn --image path/to/image.jpg
 ---
 
 💙 **If you found this project helpful, give it a ⭐!**  
-```
 
-This README is **detailed, professional, and visually engaging**. Let me know if you want any final tweaks! 🚀🔥
