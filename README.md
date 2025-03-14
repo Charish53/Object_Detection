@@ -40,11 +40,7 @@ This project implements **state-of-the-art object detection models** using **YOL
 
 ---
 
-## 🖼️ Sample Results
-| Model  | Example Output |
-|--------|---------------|
-| YOLOv8 | ![YOLOv8 Output](assets/yolo_result.png) |
-| Faster R-CNN | ![Faster R-CNN Output](assets/faster_rcnn_result.png) |
+
 
 ---
 
